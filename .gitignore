@@ -15,3 +15,9 @@ code-signing.pem.pub
 
 # mprocs
 mprocs.log
+
+# Module Federation generated types
+@mf-types/
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
